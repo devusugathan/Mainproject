@@ -1,0 +1,41 @@
+body
+{
+background-color: #FAF6E3;
+}
+h1{
+    color:#2A3663;
+    text-align: center;
+}
+
+
+#form{
+    background-color: #9ABF80;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: left;
+
+
+height: 300px;
+width: 400px;
+
+}
+button{
+    padding: 6px 5px;
+    text-align: center;
+    
+    background-color: black;
+    color: white;
+}
+input{
+    box-sizing: border-box;
+    padding: 4px;
+    
+}
+ul{
+    background-color: #B59F78;
+    list-style-position: inside;
+   
+    height: 350px;
+width: 1000px;
+text-align: center;
+}
+
